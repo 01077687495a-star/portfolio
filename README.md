@@ -1,16 +1,7 @@
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
-</div>
 
-<div>
-  <!--Body-->
-  
   ## 👀 About Me
   #### :fire: I aim to become a Game QA Engineer.<br/>
-  #### :mortar_board: Bachelor of Phyics, Myeongji University(MJU)
+  #### :mortar_board: Bachelor of Phyics, Myeongji University (MJU)
   <br/>
   <br/>
  🕹️ 게임 QA 포트폴리오
