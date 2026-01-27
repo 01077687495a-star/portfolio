@@ -1,4 +1,19 @@
-# 🕹️ 게임 QA 포트폴리오
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  
+</div>
+
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :fire: I aim to become a Game QA Engineer.<br/>
+  #### :mortar_board: Bachelor of Phyics, Myeongji University(MJU)
+  <br/>
+  <br/>
+ 🕹️ 게임 QA 포트폴리오
 
 안녕하세요! 게임의 완성도를 높이는 과정에 진심인 QA 지원자입니다. 
 아래 링크를 통해 제가 작성한 분석서와 테스트 결과물을 확인하실 수 있습니다.
@@ -14,7 +29,6 @@
     * 다양한 장르의 게임 숙련도를 확인할 수 있는 이력입니다.
 
 ---
-
 ### 🛠️ 기술 스택 및 도구
 * **Tools:** GitHub, Excel, Jira, Unity
 * **Knowledge:** 테스트 자동화(진행 중), 
