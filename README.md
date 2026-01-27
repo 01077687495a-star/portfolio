@@ -7,7 +7,7 @@
 
 ### 📁 주요 프로젝트 및 작업물
 * **[마비노기 모바일 게임 분석서](https://github.com/01077687495a-star/portfolio/blob/main/%EA%B2%8C%EC%9E%84%20%EB%B6%84%EC%84%9D%EC%84%9C/%EB%A7%88%EB%B9%84%EB%85%B8%EA%B8%B0%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EB%B6%84%EC%84%9D%EC%84%9C.pdf)**
-    * 신규 유저 유입 및 BM 구조 분석을 담은 레포트입니다.
+    * 마비노기 모바일의 코어 시스템 분석 및 방향성을 정리해봤습니다.
 * **[버그 리포트](https://github.com/01077687495a-star/portfolio/issues)**
     * 실제 플레이 중 발견한 결함들을 논리적으로 정리했습니다.
 * **[게임플레이 이력](https://github.com/01077687495a-star/portfolio/blob/main/%EA%B2%8C%EC%9E%84%ED%94%8C%EB%A0%88%EC%9D%B4%20%EC%9D%B4%EB%A0%A5.md)**
@@ -16,5 +16,5 @@
 ---
 
 ### 🛠️ 기술 스택 및 도구
-* **Tools:** GitHub, Excel, Notion
-* **Knowledge:** 테스트 자동화(진행 중), 나노공정 및 물리 기반 분석 역량
+* **Tools:** GitHub, Excel, Jira, Unity
+* **Knowledge:** 테스트 자동화(진행 중), 
