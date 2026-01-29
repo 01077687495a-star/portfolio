@@ -23,3 +23,7 @@ Status: 🟢 Pass / 🔴 Fail / 🟡 In-Progress / ⚪ Not Run
 요구사항: -
 
 관련 결함: -
+
+## 테스트 케이스 바로가기
+
+# [TC#4](https://github.com/01077687495a-star/portfolio/blob/main/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%A9%94%EC%9D%B4%ED%94%8C%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20TC%20%5BSKL-04%5D.md)
