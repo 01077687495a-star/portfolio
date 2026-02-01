@@ -105,9 +105,9 @@
 3. 복합 연산(공속, 방관, 피해감소) 상한선 및 곱연산 공식의 무결성 확보.
 ---
 ## 테스트 케이스 바로가기
-# [TC#1](https://github.com/01077687495a-star/portfolio/blob/main/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%A9%94%EC%9D%B4%ED%94%8C%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20%5BTC-01%5D.md)
-# [TC#2](https://github.com/01077687495a-star/portfolio/blob/main/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%A9%94%EC%9D%B4%ED%94%8C%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20%5BTC-02%5D.md)
-# [TC#3](https://github.com/01077687495a-star/portfolio/blob/main/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%A9%94%EC%9D%B4%ED%94%8C%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20%5BTC-03%5D.md)
-# [TC#4](https://github.com/01077687495a-star/portfolio/blob/main/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%A9%94%EC%9D%B4%ED%94%8C%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20%5BTC-04%5D.md)
+ # [[TC-01] 어빌리티 변경시 등장하는 기대옵션 및 수치범위 검증](https://github.com/01077687495a-star/portfolio/blob/main/Test_case/%5BTC-01%5D%20%EC%96%B4%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EB%B3%80%EA%B2%BD%EC%8B%9C%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EA%B8%B0%EB%8C%80%EC%98%B5%EC%85%98%20%EB%B0%8F%20%EC%88%98%EC%B9%98%EB%B2%94%EC%9C%84%20%EA%B2%80%EC%A6%9D.md)
+ # [[TC-02] 공격 속도 증가에 따른 스킬 액션 프레임 단축 확인](https://github.com/01077687495a-star/portfolio/blob/main/Test_case/%5BTC-02%5D%20%EA%B3%B5%EA%B2%A9%20%EC%86%8D%EB%8F%84%20%EC%A6%9D%EA%B0%80%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%8A%A4%ED%82%AC%20%EC%95%A1%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%8B%A8%EC%B6%95%20%ED%99%95%EC%9D%B8.md)
+ # [[TC-03] 스탯에 따른 공격력 및 피해량 검증](https://github.com/01077687495a-star/portfolio/blob/main/Test_case/%5BTC-03%5D%20%EC%8A%A4%ED%83%AF%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B3%B5%EA%B2%A9%EB%A0%A5%20%EB%B0%8F%20%ED%94%BC%ED%95%B4%EB%9F%89%20%EA%B2%80%EC%A6%9D.md)
+ # [[TC-04] 스킬 쿨타임 감소 및 특정 스탯 곱적용 정상 적용 확인](https://github.com/01077687495a-star/portfolio/blob/main/Test_case/%5BTC-04%5D%20%EC%8A%A4%ED%82%AC%20%EC%BF%A8%ED%83%80%EC%9E%84%20%EA%B0%90%EC%86%8C%20%EB%B0%8F%20%ED%8A%B9%EC%A0%95%20%EC%8A%A4%ED%83%AF%20%EA%B3%B1%EC%A0%81%EC%9A%A9%20%EC%A0%95%EC%83%81%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EC%9D%B8.md)
 
 
