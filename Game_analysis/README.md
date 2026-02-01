@@ -25,3 +25,4 @@
 ![슬라이드25](https://github.com/01077687495a-star/portfolio/blob/main/Game_analysis/slide/slide25.PNG)
 ![슬라이드26](https://github.com/01077687495a-star/portfolio/blob/main/Game_analysis/slide/slide26.PNG)
 ![슬라이드27](https://github.com/01077687495a-star/portfolio/blob/main/Game_analysis/slide/slide27.PNG)
+![슬라이드28](https://github.com/01077687495a-star/portfolio/blob/main/Game_analysis/slide/slide28.png)
