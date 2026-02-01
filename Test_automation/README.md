@@ -31,7 +31,11 @@ playwright를 이용해 결제시스템 테스트를 자동화 해보았습니�
 
 [mock page 소개 영상]
 
-https://github.com/user-attachments/assets/0b12865e-501e-4815-ba57-7f94c155653f
+
+
+
+https://github.com/user-attachments/assets/059994ed-602d-476d-aae0-d896d4b15166
+
 
 
 
@@ -41,14 +45,13 @@ https://github.com/user-attachments/assets/0b12865e-501e-4815-ba57-7f94c155653f
 
 
 
-
-https://github.com/user-attachments/assets/4ed08efc-89ea-4699-9cb4-375f365d607c
-
+https://github.com/user-attachments/assets/71150b29-d2c4-4ed2-af98-1043b3bd77af
 
 
 
 
-https://github.com/user-attachments/assets/03164701-862f-48c2-ad16-33caac81c756
+https://github.com/user-attachments/assets/c4933cf6-37c8-4adc-9730-6bb9beb70e14
+
 
 
 
@@ -92,7 +95,11 @@ https://github.com/user-attachments/assets/03164701-862f-48c2-ad16-33caac81c756
 
 
 
-https://github.com/user-attachments/assets/714d9a1a-989c-449b-936d-1089645f40dc
+
+https://github.com/user-attachments/assets/5455cd36-1ab5-4ef6-8ff8-6ca2cc727be0
+
+
+
 
 
 
