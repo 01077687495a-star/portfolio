@@ -41,6 +41,7 @@
 |바인딩 오브 아이작|![로그라이크](https://img.shields.io/badge/로그라이크-001F3F) ![슈팅](https://img.shields.io/badge/슈팅-28A745)|50시간 이상|엔딩까지 클리어|
 |Tomb raider|![어드벤쳐](https://img.shields.io/badge/어드벤쳐-87CEEB)|10시간 이상|엔딩까지 클리어|
 |Slay the Spire|![로그라이크](https://img.shields.io/badge/로그라이크-001F3F) ![카드게임](https://img.shields.io/badge/카드게임-808080)|50시간 이상|엔딩까지 클리어|
+|Slay the Spire 2|![로그라이크](https://img.shields.io/badge/로그라이크-001F3F) ![카드게임](https://img.shields.io/badge/카드게임-808080)|10시간 이상|얼리 액세스 단계 플레이|
 |산나비|![어드벤쳐](https://img.shields.io/badge/어드벤쳐-87CEEB)|10시간 이상|DLC까지 클리어|
 |A dance of fire and ice|![리듬게임](https://img.shields.io/badge/리듬게임-808080)|10시간 이상|엔딩까지 클리어|
 |두근두근 문예부|![비주얼노벨](https://img.shields.io/badge/비주얼노벨-FFD6E0)|10시간 이상|엔딩까지 클리어|
